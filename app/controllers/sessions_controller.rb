@@ -1,7 +1,7 @@
 class SessionsController < ApplicationController
 
-def login
+  def login
 
-end
+  end
 
 end
